@@ -12,6 +12,6 @@ Java, JavaFx, Junit, HTML, CSS, Bootstrap, JavaScript, SQLite, UI/UX, DOM, Pytho
 
 
 ## Contact Me
-https://qwicch.github.io/Portfolio/
+Website: https://qwicch.github.io/Portfolio/
 
 Email: ilmire.kireev@gmail.com
