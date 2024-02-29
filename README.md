@@ -8,7 +8,7 @@ Clear-100k-Data Project, a Java program that efficiently sorts large sets of dat
 I am fluent in Russian, which gives me an edge in communicating with diverse audiences and clients. I am always eager to learn new things and take on new challenges in the web development field.
 
 ## Skills
-Java, JavaFx, Junit, HTML, CSS, Bootstrap, JavaScript, SQLite, UI/UX, DOM, Python.
+Java, JavaFx, Junit, HTML, CSS, Bootstrap, JavaScript, SQLite, UI/UX, DOM, jQuery.
 
 
 ## Contact Me
